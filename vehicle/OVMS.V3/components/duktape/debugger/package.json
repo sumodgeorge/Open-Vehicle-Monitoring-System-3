@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "bluebird": "~2.6.4",
-    "body-parser": "~1.9.3",
+    "body-parser": "~1.20.3",
     "byline": "~4.2.1",
     "events": "~1.0.2",
-    "express": "~4.10.1",
+    "express": "~4.20.0",
     "http": "0.0.0",
     "minimist": "~1.2.5",
     "readline": "0.0.5",
